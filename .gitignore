@@ -1,8 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-src/App.js
-src/NewsApp.js
-src/Footer.js
 
 # dependencies
 /node_modules
