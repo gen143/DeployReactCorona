@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gen143.github.io/CoronaReact",
+  "homepage": "http://gen143.github.io/DeployReactCorona",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
     "@testing-library/jest-dom": "^4.2.4",
