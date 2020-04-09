@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/DeployReactCorona/static/css/main.d57658d4.chunk.css",
-    "main.js": "/DeployReactCorona/static/js/main.e8c8c9ae.chunk.js",
-    "main.js.map": "/DeployReactCorona/static/js/main.e8c8c9ae.chunk.js.map",
-    "runtime-main.js": "/DeployReactCorona/static/js/runtime-main.2ae43c7e.js",
-    "runtime-main.js.map": "/DeployReactCorona/static/js/runtime-main.2ae43c7e.js.map",
-    "static/css/2.cc80b6a4.chunk.css": "/DeployReactCorona/static/css/2.cc80b6a4.chunk.css",
-    "static/js/2.af8dee19.chunk.js": "/DeployReactCorona/static/js/2.af8dee19.chunk.js",
-    "static/js/2.af8dee19.chunk.js.map": "/DeployReactCorona/static/js/2.af8dee19.chunk.js.map",
-    "index.html": "/DeployReactCorona/index.html",
-    "precache-manifest.9de5d79d15d61d1281d40ca93ddb8a81.js": "/DeployReactCorona/precache-manifest.9de5d79d15d61d1281d40ca93ddb8a81.js",
-    "service-worker.js": "/DeployReactCorona/service-worker.js",
-    "static/css/2.cc80b6a4.chunk.css.map": "/DeployReactCorona/static/css/2.cc80b6a4.chunk.css.map",
-    "static/css/main.d57658d4.chunk.css.map": "/DeployReactCorona/static/css/main.d57658d4.chunk.css.map",
-    "static/js/2.af8dee19.chunk.js.LICENSE.txt": "/DeployReactCorona/static/js/2.af8dee19.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/DeployReactCorona/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/logo.svg": "/DeployReactCorona/static/media/logo.5d5d9eef.svg",
-    "static/media/me.jpg": "/DeployReactCorona/static/media/me.55468933.jpg",
-    "static/media/namast.jpg": "/DeployReactCorona/static/media/namast.9f422f78.jpg"
+    "main.css": "/CoronaReact/static/css/main.d57658d4.chunk.css",
+    "main.js": "/CoronaReact/static/js/main.44a8f363.chunk.js",
+    "main.js.map": "/CoronaReact/static/js/main.44a8f363.chunk.js.map",
+    "runtime-main.js": "/CoronaReact/static/js/runtime-main.4ba88632.js",
+    "runtime-main.js.map": "/CoronaReact/static/js/runtime-main.4ba88632.js.map",
+    "static/css/2.d8bd901e.chunk.css": "/CoronaReact/static/css/2.d8bd901e.chunk.css",
+    "static/js/2.746516bb.chunk.js": "/CoronaReact/static/js/2.746516bb.chunk.js",
+    "static/js/2.746516bb.chunk.js.map": "/CoronaReact/static/js/2.746516bb.chunk.js.map",
+    "index.html": "/CoronaReact/index.html",
+    "precache-manifest.321dccf3b6dff8561afe5ff4ff1c929b.js": "/CoronaReact/precache-manifest.321dccf3b6dff8561afe5ff4ff1c929b.js",
+    "service-worker.js": "/CoronaReact/service-worker.js",
+    "static/css/2.d8bd901e.chunk.css.map": "/CoronaReact/static/css/2.d8bd901e.chunk.css.map",
+    "static/css/main.d57658d4.chunk.css.map": "/CoronaReact/static/css/main.d57658d4.chunk.css.map",
+    "static/js/2.746516bb.chunk.js.LICENSE.txt": "/CoronaReact/static/js/2.746516bb.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/CoronaReact/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/CoronaReact/static/media/logo.5d5d9eef.svg",
+    "static/media/me.jpg": "/CoronaReact/static/media/me.55468933.jpg",
+    "static/media/namast.jpg": "/CoronaReact/static/media/namast.9f422f78.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ae43c7e.js",
-    "static/css/2.cc80b6a4.chunk.css",
-    "static/js/2.af8dee19.chunk.js",
+    "static/js/runtime-main.4ba88632.js",
+    "static/css/2.d8bd901e.chunk.css",
+    "static/js/2.746516bb.chunk.js",
     "static/css/main.d57658d4.chunk.css",
-    "static/js/main.e8c8c9ae.chunk.js"
+    "static/js/main.44a8f363.chunk.js"
   ]
 }
