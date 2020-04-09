@@ -1,0 +1,81 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.App{
+  height: 28rem;
+  margin-top : 170px;
+  justify-content: space-around;
+  background-color: #E6E6FA;
+  display: flex;
+  flex-direction: row;
+  background-image: url('img/star.jpg');
+}
+
+.overflow {
+  overflow: hidden;
+}
+
+.img-size {
+  height: 150px;
+  width: 150px;
+  transform: scale(1);
+  transition: transform 0.5s ease;
+}
+
+.img-size:hover {
+  transform: scale(1.2);
+}
+
+.card-hover:hover {
+transform: scale(1.1);
+}
+
+.btn-down {
+  transform: translateY(80%);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+  margin-top: 2rem;
+  transition: transform 0.5s ease;
+}
+
+.card-hover:hover {
+transform: scale(1.1);
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}

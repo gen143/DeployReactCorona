@@ -1,0 +1,74 @@
+
+.myBar-first {
+  display: block;
+}
+
+
+.card-first {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.img-first {
+  width: 50px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.img-first:hover {
+  transform: scale(1.2);
+  transition: transform 0.6s ease;
+}
+
+.wash:hover {
+  transform: scale(1.2) rotate(-30deg);
+}
+
+.namaste {
+  width: 50px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.namaste:hover {
+  transform: scale(1.4);
+  transition: transform 0.6s ease;
+}
+
+.corner-first {
+  transform: translateX(1920%);
+  width: 50px;
+  border-radius: 50%;
+}
+
+.corner-r-first:hover {
+  transform: translateX(1920%) scale(1.2) rotate(360deg);
+  transition: transform 8s ease;
+}
+
+.column-first {
+  float: left;
+  padding: 10px;
+  height: 300px;
+  margin-top: -25px;
+}
+
+.left-first {
+  width: 50%;
+  margin-top: 50px;
+
+}
+
+.right-first {
+  width: 50%;
+  transform: translate(50px, 50px);
+}
+
+.phase-first {
+  display: block;
+  margin-top: 500px;
+}
+
+.text-left {
+  text-align: center;
+}
